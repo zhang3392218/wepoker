@@ -1,0 +1,14 @@
+            -名称：自动移动运行测试计划
+  ＃您可以将确切的提交或版本固定。＃您可以将确切的提交或版本固定。＃您可以将确切的提交或版本固定。＃您可以将确切的提交或版本固定。＃您可以将确切的提交或版本固定。＃您可以将确切的提交或版本固定。＃您可以将确切的提交或版本固定。＃您可以将确切的提交或版本固定。
+  ＃用途：AutifyHQ/Mobile-run-Test-Plan-Action@40BeBDE5F60117EC81312051028D22222222222222222222222222280
+  用途：autifyhq/mobile-run-test-plan-action@v1.0.0
+  和：
+    ＃个人访问令牌
+    autify_for_mobile_api_token：
+    ＃您要运行的测试计划 id
+    test_plan_id：
+    ＃构建您要使用的 id
+    build_id：
+    ＃测试计划 api基础url
+    test_plan_api_base_url：＃可选
+          
